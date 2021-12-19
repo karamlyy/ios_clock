@@ -1,0 +1,24 @@
+body {
+    font-family: "Work Sans", sans-serif;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(90deg, #0f9461, #808dd8);
+    color: rgb(18, 4, 78); 
+}
+.time {
+    padding: 8px;
+    text-align: center;
+    width: 300px;
+}
+.hms {
+    font-size: 58px;
+    font-weight: 200;
+}
+.ampm {
+    font-size: 25px;
+}
+.date {
+    font-size: 20px;
+}
